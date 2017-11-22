@@ -1,5 +1,7 @@
 # hello-sauce
 
+create the simplest possible test framework using Sauce Labs with Junit.
+
 set environment variables for SAUCE_USERAME and SAUCE_ACCESS_KEY before running
 
 ```
